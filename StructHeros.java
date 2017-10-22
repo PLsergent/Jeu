@@ -1,6 +1,6 @@
 package Jeu;
 
-interface StructHeros{
+public interface StructHeros{
   public String toString();
   public String getNom();
   public void etat();
